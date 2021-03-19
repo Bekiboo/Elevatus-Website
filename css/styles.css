@@ -657,7 +657,6 @@ footer {
 }
 
 
-
 @media screen and (min-width: 900px) {
     .nav-toggle-label {
         display: none;
@@ -802,9 +801,6 @@ footer {
         width: 40vw;
     }
 }
-
-
-
 
 @media screen and (min-width: 1200px) {
     header {
